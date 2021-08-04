@@ -1,0 +1,74 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\about.vue",
+    "chunkName": "pages/about",
+    "_name": "_6678d946"
+  },
+  {
+    "name": "blogs",
+    "path": "/blogs",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\blogs.vue",
+    "chunkName": "pages/blogs",
+    "children": [
+      {
+        "name": "blogs-uid",
+        "path": ":uid?",
+        "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\blogs\\\\_uid.vue",
+        "chunkName": "pages/blogs/_uid",
+        "_name": "_679d79db"
+      }
+    ],
+    "_name": "_1cd1ce6c"
+  },
+  {
+    "name": "conditions",
+    "path": "/conditions",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\conditions.vue",
+    "chunkName": "pages/conditions",
+    "_name": "_3a9c184f"
+  },
+  {
+    "name": "credit_scoring",
+    "path": "/credit_scoring",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\credit_scoring.vue",
+    "chunkName": "pages/credit_scoring",
+    "_name": "_0c627dc0"
+  },
+  {
+    "name": "faq",
+    "path": "/faq",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\faq.vue",
+    "chunkName": "pages/faq",
+    "_name": "_a9836ee2"
+  },
+  {
+    "name": "funds",
+    "path": "/funds",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\funds.vue",
+    "chunkName": "pages/funds",
+    "_name": "_a0e2b8f2"
+  },
+  {
+    "name": "investor",
+    "path": "/investor",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\investor.vue",
+    "chunkName": "pages/investor",
+    "_name": "_6e2ca9ef"
+  },
+  {
+    "name": "shariah",
+    "path": "/shariah",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\shariah.vue",
+    "chunkName": "pages/shariah",
+    "_name": "_cb5ecb7a"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\s111m\\\\Documents\\\\Manafa\\\\Sukuk\\\\Site\\\\sukuk-public-website\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f39e97ea"
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "PartialTermOfServicesIntroduction": {
+    "description": "Auto imported from components/partial/term_of_services/introduction.vue"
+  },
+  "PartialTerm1": {
+    "description": "Auto imported from components/partial/term_of_services/term_1.vue"
+  },
+  "PartialTerm10": {
+    "description": "Auto imported from components/partial/term_of_services/term_10.vue"
+  },
+  "PartialTerm11": {
+    "description": "Auto imported from components/partial/term_of_services/term_11.vue"
+  },
+  "PartialTerm12": {
+    "description": "Auto imported from components/partial/term_of_services/term_12.vue"
+  },
+  "PartialTerm13": {
+    "description": "Auto imported from components/partial/term_of_services/term_13.vue"
+  },
+  "PartialTerm2": {
+    "description": "Auto imported from components/partial/term_of_services/term_2.vue"
+  },
+  "PartialTerm3": {
+    "description": "Auto imported from components/partial/term_of_services/term_3.vue"
+  },
+  "PartialTerm4": {
+    "description": "Auto imported from components/partial/term_of_services/term_4.vue"
+  },
+  "PartialTerm5": {
+    "description": "Auto imported from components/partial/term_of_services/term_5.vue"
+  },
+  "PartialTerm6": {
+    "description": "Auto imported from components/partial/term_of_services/term_6.vue"
+  },
+  "PartialTerm7": {
+    "description": "Auto imported from components/partial/term_of_services/term_7.vue"
+  },
+  "PartialTerm8": {
+    "description": "Auto imported from components/partial/term_of_services/term_8.vue"
+  },
+  "PartialTerm9": {
+    "description": "Auto imported from components/partial/term_of_services/term_9.vue"
+  }
+}
